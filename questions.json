@@ -1,0 +1,244 @@
+{
+  "heading": "Preposition",
+  "topics": [
+    {
+      "heading": "Preposition",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The dog is hiding _____ the bed.",
+          "options": [
+            { "text": "on" },
+            { "text": "in" },
+            { "text": "under" },
+            { "text": "beside" }
+          ],
+          "answer": 2,
+          "explanation": "\"Under the bed\" indicates that the dog is beneath the bed."
+        },
+        {
+          "questionNo": 2,
+          "question": "She will meet us _____ the bus stop.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "on" },
+            { "text": "over" }
+          ],
+          "answer": 0,
+          "explanation": "\"At the bus stop\" specifies a particular location where they will meet."
+        },
+        {
+          "questionNo": 3,
+          "question": "\"She ran quickly\" has a prepositional phrase.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "There is no preposition or prepositional phrase in this sentence."
+        },
+        {
+          "questionNo": 4,
+          "question": "\"In the morning\" is a prepositional phrase.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "\"In the morning\" starts with the preposition \"in\" and ends with the noun \"morning\", making it a prepositional phrase."
+        },
+        {
+          "questionNo": 5,
+          "question": "She is standing _____ the door.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "on" },
+            { "text": "under" }
+          ],
+          "answer": 0,
+          "explanation": "\"At the door\" indicates that she is standing next to or by the door."
+        },
+        {
+          "questionNo": 6,
+          "question": "They went for a walk _____ the river.",
+          "options": [
+            { "text": "in" },
+            { "text": "on" },
+            { "text": "along" },
+            { "text": "under" }
+          ],
+          "answer": 2,
+          "explanation": "\"Along the river\" means they walked following the path beside the river."
+        },
+        {
+          "questionNo": 7,
+          "question": "The meeting is scheduled _____ next Monday.",
+          "options": [
+            { "text": "on" },
+            { "text": "in" },
+            { "text": "at" },
+            { "text": "by" }
+          ],
+          "answer": 0,
+          "explanation": "\"On next Monday\" specifies the exact day the meeting is scheduled."
+        },
+        {
+          "questionNo": 8,
+          "question": "\"The cat sat near the window\" has a prepositional phrase.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "\"Near the window\" is the prepositional phrase in this sentence."
+        },
+        {
+          "questionNo": 9,
+          "question": "He was sitting _____ his best friend during the concert.",
+          "options": [
+            { "text": "on" },
+            { "text": "in" },
+            { "text": "under" },
+            { "text": "beside" }
+          ],
+          "answer": 3,
+          "explanation": "\"Beside his best friend\" means he was sitting next to his best friend."
+        },
+        {
+          "questionNo": 10,
+          "question": "The cat jumped _____ the wall and ran away.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "over" },
+            { "text": "under" }
+          ],
+          "answer": 2,
+          "explanation": "\"Over the wall\" describes the motion of the cat jumping from one side to the other."
+        },
+        {
+          "questionNo": 11,
+          "question": "What is the prepositional phrase in the sentence: <br>\"We walked through the park before sunset.\"",
+          "options": [
+            { "text": "We walked" },
+            { "text": "before sunset" },
+            { "text": "through the park" },
+            { "text": "the park" }
+          ],
+          "answer": 2,
+          "explanation": "\"Through the park\" starts with the preposition \"through\" and ends with the noun \"park,\" making it a prepositional phrase."
+        },
+        {
+          "questionNo": 12,
+          "question": "They arrived _____ the hotel late at night.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "on" },
+            { "text": "by" }
+          ],
+          "answer": 0,
+          "explanation": "\"At the hotel\" specifies the location of their arrival."
+        },
+        {
+          "questionNo": 13,
+          "question": "The bridge is _____ the river.",
+          "options": [
+            { "text": "on" },
+            { "text": "in" },
+            { "text": "over" },
+            { "text": "at" }
+          ],
+          "answer": 2,
+          "explanation": "\"Over the river\" means the bridge spans across the river."
+        },
+        {
+          "questionNo": 14,
+          "question": "She moved the chair _____ the table.",
+          "options": [
+            { "text": "at" },
+            { "text": "on" },
+            { "text": "beside" },
+            { "text": "under" }
+          ],
+          "answer": 2,
+          "explanation": "\"Beside the table\" indicates the chair's position next to the table."
+        },
+        {
+          "questionNo": 15,
+          "question": "What is the prepositional phrase in this sentence: <br>\"The rabbit hopped into the garden.\"",
+          "options": [
+            { "text": "The rabbit" },
+            { "text": "hopped" },
+            { "text": "into the garden" },
+            { "text": "all of the above" }
+          ],
+          "answer": 2,
+          "explanation": "\"Into the garden\" starts with the preposition \"into\" and ends with the noun \"garden\", making it a prepositional phrase."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following is not a preposition?",
+          "options": [
+            { "text": "Behind" },
+            { "text": "Beside" },
+            { "text": "Below" },
+            { "text": "Beloved" }
+          ],
+          "answer": 3,
+          "explanation": "\"Beloved\" is an adjective describing someone who is dearly loved. The other options (\"Behind,\" \"Beside,\" and \"Below\") are all prepositions, which are used to indicate location or position."
+        },
+        {
+          "questionNo": 17,
+          "question": "The movie starts _____ 7 PM.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "on" },
+            { "text": "by" }
+          ],
+          "answer": 0,
+          "explanation": "\"At 7 PM\" specifies the exact time the movie starts."
+        },
+        {
+          "questionNo": 18,
+          "question": "We drove _____ the tunnel to reach the city.",
+          "options": [
+            { "text": "in" },
+            { "text": "through" },
+            { "text": "over" },
+            { "text": "under" }
+          ],
+          "answer": 1,
+          "explanation": "\"Through the tunnel\" indicates passing from one end of the tunnel to the other."
+        },
+        {
+          "questionNo": 19,
+          "question": "\"The kite flew above the trees\" has a prepositional phrase.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "\"Above the trees\" is the prepositional phrase in this sentence."
+        },
+        {
+          "questionNo": 20,
+          "question": "She waited _____ the bus to arrive.",
+          "options": [
+            { "text": "at" },
+            { "text": "in" },
+            { "text": "for" },
+            { "text": "on" }
+          ],
+          "answer": 2,
+          "explanation": "\"For the bus\" indicates she was waiting for the arrival of the bus."
+        }
+      ]
+      
+      
+    }
+  ]
+}
